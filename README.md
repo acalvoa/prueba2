@@ -22,7 +22,7 @@ Las preguntas a continuación seran las que aplican para este examen. Hay plazo 
 
 ### Acotación 2
 
-- Se debenutilizar modelos de datos.
+- Se deben utilizar modelos de datos.
 - Utilizar servicios para mediar los datos.
 - Se deben usar pipes para tratamiento de datos en HTML.
 - Se deben utilizar directivas para otorgar funcionalidades a ciertas estructuras html.
