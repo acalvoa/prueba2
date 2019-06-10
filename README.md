@@ -8,7 +8,7 @@ El sistema inicialmente debe tener una interfaz donde la administración sea cap
 
 Asi mismo se debe disponer de un modulo donde los expectadores sean capaces de comprar entradas para las peliculas en cartelera, permitiendo elegir el asiento disponible (Asuma que los asientos son cubos con numeros pares en la cantidad total de asientos). El proceso termina con una entrada dibujada en pantalla (Escrita en html y SCSS). Ademas se deben a modo de cartelera desplegar las peliculas disponibles y las entradas disponibles, a modo de catalogo previo a seleccionar la pelicula.
 
-Tambien se debe disponer de un modulo de caja, en donde el cine podra vender entradas en tiempo real para las peliculas en cartelera y los cines. El proceso termina con las entradas dibujadas en pantalla (Escrita en html y SCSS)
+Tambien se debe disponer de un modulo de caja, en donde el cine podra vender entradas en tiempo real para las peliculas en cartelera y los salas del cine. El proceso termina con las entradas dibujadas en pantalla (Escrita en html y SCSS)
 
 Se debe proveer para la administración un modulo donde se permita deplegar la información de ventas de cada pelicula y sala de cine, permitiendo exhibir las ganacias y estadisticas.
 
