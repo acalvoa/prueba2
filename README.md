@@ -33,3 +33,5 @@ Las preguntas a continuación seran las que aplican para este examen. Hay plazo 
 
 - La aplicación final debe quedar dockerizada y entregada bajo una compilación Ahead on Time.
 - Se evaluaran buenas practicas de codificación.
+
+***P.D: Para guardar datos mocks se puede utilizar la libreria HTTP Client para consumir archivos de texto en JSON***
