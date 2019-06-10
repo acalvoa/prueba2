@@ -2,7 +2,7 @@
 
 # Enunciado
 
-El cine ***CineContinent*** actualmente desarrolla sus sistemas de ventas a mano y por telefono la gestion de sus salas de cine. Debido a un proceso de transformación digital el cine desea transformar sus sistemas a componentes digitales. Para esto se ha encargado un sistema con arquitectura frontend - backend mediado por API REST. Usted es un conocido consultor de la industria de construcción de productos de software y se le ha encargado la fase 1 que consiste en la construcción de la plataforma frontend en Angular.
+El cine ***CineContinent*** actualmente desarrolla sus sistemas de ventas a mano y por telefono para gestion de sus salas de cine. Debido a un proceso de transformación digital el cine desea transformar sus sistemas a componentes digitales. Para esto se ha encargado un sistema con arquitectura frontend - backend mediado por API REST. Usted es un conocido consultor de la industria de construcción de productos de software y se le ha encargado la fase 1 que consiste en la construcción de la plataforma frontend en Angular.
 
 El sistema inicialmente debe tener una interfaz donde la administración sea capaz de agregar peliculas en cartelera, las cuales son asignadas a una sala de cine en un horario determinado. Cada sala de cine dispone de la cantidad maxima de asientos en ella, asi como las caractersiticas, "Sala 5D, Sala 3D, Sala Imax o Sala simple". Cada pelicula se dispone en distintos formatos que estan relacionados a las salas disponibles y sus caracteristicas, asi mismo las peliculas disponen de un nombre, idioma, edad establecida, etc. No se pueden colocar peliculas en horarios sobrepuestos.
 
